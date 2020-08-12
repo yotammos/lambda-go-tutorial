@@ -1,0 +1,1 @@
+GOOS=linux go build -o main main.go && zip function.zip main
